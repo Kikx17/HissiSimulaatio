@@ -8,5 +8,8 @@ namespace HissiSimulaatio
 {
 	interface IHissi
 	{
+		int Minkerros { get; set; }
+		int Maxkerros { get; set; }
+		int Atkerros { get; set; }
 	}
 }
