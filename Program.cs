@@ -11,13 +11,13 @@ namespace HissiSimulaatio
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Welcome! What's the max floor? -3 to quit.");
+			/*Console.WriteLine("Welcome! What's the max floor? -3 to quit.");
 			var UserInput = Console.ReadLine();
 
 			if (UserInput == "-3")
 			{
 				break;
-			}
+			}*/
 		}
 
 		static int PyydaKokonaisLuku(string kehote)

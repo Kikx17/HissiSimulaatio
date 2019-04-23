@@ -1,0 +1,7 @@
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\obj\Debug\HissiSimulaatio.csprojAssemblyReference.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\obj\Debug\HissiSimulaatio.csproj.CoreCompileInputs.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\bin\Debug\HissiSimulaatio.exe.config
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\bin\Debug\HissiSimulaatio.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\bin\Debug\HissiSimulaatio.pdb
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\obj\Debug\HissiSimulaatio.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\HissiSimulaatio\HissiSimulaatio\obj\Debug\HissiSimulaatio.pdb
